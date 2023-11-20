@@ -1,2 +1,2 @@
-# BodeanNicolai
+# Hike
 Try to learn swift language 
